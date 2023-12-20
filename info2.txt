@@ -1,6 +1,0 @@
-git functionality
-git init
-git status
-git commit
-git remote add origin master
-git push origin url "URL"
